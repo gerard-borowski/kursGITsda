@@ -1,1 +1,2 @@
-ty plik a juz juz jest cos zapisane w typie a w Master
+Calosc z pliku A z testingowego i mastera
+
